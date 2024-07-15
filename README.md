@@ -53,7 +53,7 @@ The Railway Reservation System project aims to simplify and enhance the online t
 
 ## Relational Schema
 The relational schema defines the structure of the database in terms of tables, columns, primary keys, and foreign keys. Detailed schema definitions can be found in the [RelationalSchema.md](Relationalschema.md) file.
-![Relational Schema](Relationalschema.png)
+![Relational Schema](relational_schema.png)
 
 ## Tables
 Details of each table including columns, data types, primary keys, and foreign keys can be found in the [Tables.md](Tables.md) file.
