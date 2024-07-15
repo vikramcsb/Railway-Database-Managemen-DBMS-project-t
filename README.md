@@ -33,14 +33,15 @@ The Railway Reservation System database project focuses on designing and impleme
 The Railway Reservation System project aims to simplify and enhance the online ticket booking experience for users. By providing features like user registration, train search and booking, seat reservation, payment processing, and booking management, the system ensures a hassle-free experience for travelers. This overview outlines the project's objectives, scope, functionalities, and design considerations, laying the groundwork for successful development and implementation of the database.
 
 ## Contents
-- [ER Diagram](ER_Diagram.png)
-- [Relational Schema](#Relationalschema)
-- [Tables](#Tables)
-- [Normalization](#Normalization)
-- [SQL Code](#Sqlcode)
-- [SQL Queries](#SqlQueries)
-- [Assumptions](#Assumptions)
-
+- [ER Model Assumptions](#er-model-assumptions)
+- [ER Diagram](#er-diagram)
+- [Relational Schema](#relational-schema)
+- [Tables](#tables)
+- [Normalization](#normalization)
+- [SQL Code](#sql-code)
+- [SQL Queries](#sql-queries)
+- [Assumptions](#assumptions)
+- 
 ## ER Model Assumptions
 - Every station has only one platform, i.e., only one train can arrive at a station at a time.
 - Train fare is calculated based on the distance traveled and an additional fixed charge depending on the class (AC, Sleeper, or General).
